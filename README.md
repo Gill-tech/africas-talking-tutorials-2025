@@ -14,7 +14,7 @@ Build a dial-in text menu interface (*384*123#).
 
 ### 3. 💳 Payments + SMS Confirmation with Node.js  
 Accept payments via Paystack, confirm with SMS.  
-➡️ [Read Tutorial](./tutorials/payments-paystack-nodejs/README.md)
+➡️ [Read Tutorial][(./tutorials/payments-paystack-nodejs/README.md)](https://github.com/Gill-tech/africas-talking-tutorials-2025/tree/main/tutorials/payments-paystack-nodejs/assets)
 
 ---
 
