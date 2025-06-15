@@ -6,7 +6,7 @@ Welcome! This is a curated series of real-world tutorials showing how to build p
 
 ### 1. 📤 SMS Quickstart with Node.js  
 Send SMS in minutes using Africa's Talking.  
-➡️ [Read Tutorial](./tutorials/sms-quickstart-nodejs/README.md)
+➡️ [Read Tutorial][(./tutorials/sms-quickstart-nodejs/README.md)](https://github.com/Gill-tech/africas-talking-tutorials-2025/blob/main/tutorials/sms-quickstart-nodejs/assets/README.md)
 
 ### 2. 📲 USSD Quickstart with Node.js  
 Build a dial-in text menu interface (*384*123#).  
