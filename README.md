@@ -10,7 +10,7 @@ Send SMS in minutes using Africa's Talking.
 
 ### 2. 📲 USSD Quickstart with Node.js  
 Build a dial-in text menu interface (*384*123#).  
-➡️ [Read Tutorial](./tutorials/ussd-quickstart-nodejs/README.md)
+➡️ [Read Tutorial][(./tutorials/ussd-quickstart-nodejs/README.md)](https://github.com/Gill-tech/africas-talking-tutorials-2025/tree/main/tutorials/ussd-quickstart-nodejs/assets)
 
 ### 3. 💳 Payments + SMS Confirmation with Node.js  
 Accept payments via Paystack, confirm with SMS.  
