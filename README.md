@@ -4,15 +4,11 @@ Welcome! This is a curated series of real-world tutorials showing how to build p
 
 ## 📚 Tutorials
 
-### 1. 📤 SMS Quickstart with Node.js  
-Send SMS in minutes using Africa's Talking.  
-➡️ [Read Tutorial][(./tutorials/sms-quickstart-nodejs/README.md)](https://github.com/Gill-tech/africas-talking-tutorials-2025/blob/main/tutorials/sms-quickstart-nodejs/assets/README.md)
-
-### 2. 📲 USSD Quickstart with Node.js  
+### 1. 📲 USSD Quickstart with Node.js  
 Build a dial-in text menu interface (*384*123#).  
 ➡️ [Read Tutorial][(./tutorials/ussd-quickstart-nodejs/README.md)](https://github.com/Gill-tech/africas-talking-tutorials-2025/tree/main/tutorials/ussd-quickstart-nodejs/assets)
 
-### 3. 💳 Payments + SMS Confirmation with Node.js  
+### 2. 💳 Payments + SMS Confirmation with Node.js  
 Accept payments via Paystack, confirm with SMS.  
 ➡️ [Read Tutorial][(./tutorials/payments-paystack-nodejs/README.md)](https://github.com/Gill-tech/africas-talking-tutorials-2025/tree/main/tutorials/payments-paystack-nodejs/assets)
 
